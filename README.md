@@ -6,7 +6,7 @@ Getting started with the bleeding edge of Deep Learning is extremely easy.. and 
 
 This repository contains all information for the hands-on part of the session.
 
-Slides URL: [slides.pdf](https://github.ibm.com/CODAIT/max-workshop-svl/blob/master/slides.pdf)
+Slides URL: [slides.pdf](slides.pdf)
 
 ## While waiting...
 
